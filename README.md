@@ -1,2 +1,2 @@
-- [Preview](https://ArtemLavr.github.io/qwerty/)
-- [Pull Request](https://github.com/ArtemLavr/qwerty/pull/1/files)
+- [Preview](https://ArtemLav.github.io/qwerty/)
+- [Pull Request](https://github.com/ArtemLav/qwerty/pull/1/files)
